@@ -8,6 +8,7 @@ namespace FinalProject
         static void Main(string[] args)
         {
             Control newBoard = new Control();
+            Console.WriteLine("TEST");
             //Console.WriteLine("Name Player 1: ");
             //newBoard.Player1name = Console.ReadLine();
             //Console.WriteLine("Name Player 2: ");
